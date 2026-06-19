@@ -1,11 +1,10 @@
-# hikae — 配布リポジトリ
+# 控 - hikae
 
-[hikae](https://github.com/OrthogonalInteractive/hikae)（メニューバー常駐メモ/TODOアプリ）の **配布専用 public リポジトリ** です。
+<p align="center">
+  <img src="hikae.png" alt="控 - hikae" width="500">
+</p>
 
-- ソースコードは private リポジトリ `OrthogonalInteractive/hikae` にあります。
-- このリポジトリの **Releases** に、各プラットフォーム向けインストーラと、自動アップデート用の `latest.json` / 署名（`.sig`）が CI から自動 publish されます。
-- アプリ内の自動アップデートはこのリポジトリの最新リリースを参照します。
+A menubar app for macOS. Jot down memos and TODOs instantly with a global shortcut — everything is saved as plain Markdown.
 
-## ダウンロード
-
-最新版は [Releases](https://github.com/OrthogonalInteractive/hikae-pub/releases/latest) から取得してください。
+- Organize with **groups** and **tags**
+- Find anything fast with incremental search
