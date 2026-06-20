@@ -1,0 +1,3 @@
+[submodule "hikae"]
+	path = hikae
+	url = https://github.com/OrthogonalInteractive/hikae.git
